@@ -1,8 +1,8 @@
-<img src="github-header.png" width="100%"/>
+<!-- <img src="github-header.png" width="100%"/> -->
 
 <div align="center">
 
-### 👉 [View full profile](https://pdutta25.github.io)
+### 👉 View full profile : https://pdutta25.github.io
 
 </div>
 
