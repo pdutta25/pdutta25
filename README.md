@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 👉 [View full profile](https://pinak.github.io/pinak)
+### 👉 [View full profile](https://pinak.github.io/pdutta25)
 
 </div>
 
