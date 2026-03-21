@@ -1,4 +1,4 @@
-<img src="prof-header.png" width="100%"/>
+<img src="github-header.png" width="100%"/>
 
 <div align="center">
 
