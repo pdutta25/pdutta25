@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 👉 View full profile : https://pdutta25.github.io
+### 👉 https://pdutta25.github.io
 
 </div>
 
