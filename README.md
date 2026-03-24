@@ -2,25 +2,27 @@
 
 GitHub gives me 80 chars. I needed more space. 👉 https://pdutta25.github.io
 
+
 ## 📌 Pinned
 
 ☀️ **[https://isitnice.app](https://isitnice.app)** — Weather that finally gets it.
 
-Is it nice out?  
+Like texting a buddy who's already outside:  
+"Hey, is it nice?"
+
 **Hell yes.** Or **Nope.**
 
-This app pulls live data from the top three forecasting models — NOAA, ECMWF, and GFS — and turns it into one smart, trustworthy **Nice Score**. One algorithm. One verdict you can actually trust.
+- **Real-time intelligence** from the top 3 pro models (NOAA + ECMWF + GFS)  
+- **One smart Nice Score** — one algorithm, one crystal-clear verdict you can trust  
+- **Not your dad's radar-cluttered app** — no 47 confusing data points, no PhD required  
+- **AI that actually motivates you** — roasts you into going outside with sassy daily briefings  
+- **Custom comfort thresholds** + instant severe weather alerts  
+- **100% free** • **Zero ads** • **Zero BS**
 
-But it doesn’t stop at accuracy.
-
-It comes with an AI that roasts you into going outside, drops brutally honest sassy daily briefings, learns your personal comfort thresholds, and fires real-time severe alerts when things get serious.
-
-**Free. No ads. No BS.**
-
-Best part? It’s a lightning-fast **PWA** — tap “Add to Home Screen” and it works exactly like a native app. No App Store drama, no storage hog, instant access everywhere.
+**Best part?** It's a lightning-fast **PWA** — just tap “Add to Home Screen” and it feels & works exactly like a native app. No App Store. No downloads. Instant access everywhere.
 
 This isn’t your dad’s weather app.  
-This is the daily companion you’ll actually love opening — the one that makes you excited to step outside.
+This is the fun, addictive daily companion that makes you excited to step outside.
 
 Simple. Smart. Addictive.
 
