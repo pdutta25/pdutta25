@@ -26,4 +26,6 @@ This is the fun, addictive daily companion that makes you excited to step outsid
 
 Simple. Smart. Addictive.
 
+If it makes someone's day a little easier, that's the whole point.
+
 ---
