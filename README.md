@@ -14,7 +14,7 @@ Like texting a buddy who's already outside:
 
 - **Real-time intelligence** from the top 3 pro models (NOAA + ECMWF + GFS)  
 - **One smart Nice Score** — one algorithm, one crystal-clear verdict you can trust  
-- **Not your dad's radar-cluttered app** — no 47 confusing data points, no PhD required  
+- **Not your dad's radar-cluttered app** — no 47 confusing data points (sorry, Dad ; nobody reads those charts lol)
 - **AI algo that actually motivates you** — roasts you into going outside with sassy daily briefings  
 - **Custom comfort thresholds** + instant severe weather alerts  
 - **100% free** • **Zero ads** • **Zero BS**
