@@ -5,7 +5,7 @@ GitHub gives me 80 chars. I needed more space. 👉 https://pdutta25.github.io
 
 ## 📌 Pinned
 
-☀️ **[https://isitnice.app](https://isitnice.app)** — Weather that finally gets it.
+☀️ **[https://isitnice.app](https://isitnice.app)** 
 
 Like texting a buddy who's already outside:  
 "Hey, is it nice?"
