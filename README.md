@@ -9,8 +9,7 @@ GitHub gives me 80 chars. I needed more space. 👉 https://pdutta25.github.io
 
 # ☀️ Is it Nice (out there) ? 
 
-**10k lines of code**  
-**Creator: Caffeine, Claude and me** ☕🤖
+10k+ LOC | Caffeine, Claude and me ☕🤖
 
 **Live App:** [https://isitnice.app](https://isitnice.app)
   
@@ -39,8 +38,7 @@ If it makes someone's day a little easier, that's the whole point.
 
 # 🚲 DevEx Bike Shop
 
-**37k lines of code**  
-**Creator: Caffeine, Claude and me** ☕🤖
+37k+ LOC |  Caffeine, Claude and me ☕🤖
 
 **Live App:** [https://devexbikeshop.com](https://devexbikeshop.com)
 
