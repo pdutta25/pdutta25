@@ -97,7 +97,7 @@ A full-stack demo e-commerce website for a premium bike shop, built as a complet
   - Config-driven routing: **Solo / Gated / Unified**  
   - `manifest-13.json` as the single source of truth for all 13 components  
 
-The entire pipeline — from first line of code to production deployment — was heavily powered by **AI/Copilot**, showcasing modern DevEx with modern development practices.
+The entire pipeline — from first line of code to production deployment — was heavily powered by **AI/Copilot**, showcasing modern DevEx development practices.
 
 No bikes were made, sold, or harmed in the making of this project.  🚲
 
