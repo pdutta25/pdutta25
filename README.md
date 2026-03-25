@@ -79,17 +79,15 @@ A full-stack demo e-commerce website for a premium bike shop, built as a complet
   - 📝 AI-generated release notes  
   - 📚 Auto-generated Wiki docs (published to GitHub Wiki)  
   - Rich `$GITHUB_STEP_SUMMARY` markdown reports on every job  
-  - GitHub Release automatically created with full CI results  
-  - Demo storyline embedded directly in deploy logs  
+  - GitHub Release automatically created with full CI results   
   - Smart features: path filtering, concurrency groups, AI-powered PR reviews  
 
 - **Continuous Deployment (CD) with Harness**  
   - 4 release pipelines: **Spring Sale**, Gated, Unified, APR  
   - 5-stage structure: **Start → DEV → STG → PROD → End**  
   - Real-time write-back to GitHub Releases from Harness  
-  - **Start Stage**: Trigger validation, manifest processing, telemetry initialization (59 data points per component), release strategy selection  
-  - **End Stage**: Release summary, full traceability record, governance checks, telemetry aggregation (including DORA metrics)  
-  - Real Render deploy for the storefront in PROD  
+  - **Start Stage**: Trigger validation, manifest processing, telemetry initialization (59 data points per component ~ 600 for pipeline), release strategy selection  
+  - **End Stage**: Release summary, full traceability record, governance checks, telemetry aggregation (including DORA metrics)   
   - 13-component deployment (Backend + Frontend groups)  
   - Full observability, audit trail, and notifications throughout  
 
@@ -99,6 +97,7 @@ A full-stack demo e-commerce website for a premium bike shop, built as a complet
 
 The entire pipeline — from first line of code to production deployment — was heavily powered by **AI/Copilot**, showcasing modern DevEx development practices.
 
+Important : 
 No bikes were made, sold, or harmed in the making of this project.  🚲
 
 ---
