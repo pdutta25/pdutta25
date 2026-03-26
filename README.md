@@ -52,7 +52,7 @@ Simple. Smart. Addictive.
 </td>
 <td width="50%" valign="top">
 
-#### 🚲 DevEx Bike Shop
+#### 🚲 Bike Shop
 
 ![LOC](https://img.shields.io/badge/37k+_LOC-0d1117?style=flat-square) ![Stack](https://img.shields.io/badge/Next.js_14_+_TypeScript_+_Drizzle_+_SQLite-FFAB40?style=flat-square&logoColor=white) ![Repo](https://img.shields.io/badge/Public_Repo-58A6FF?style=flat-square)
 
