@@ -10,13 +10,11 @@
 
 > #### 🌤️ TruWeather
 >
-> ![Stack](https://img.shields.io/badge/React_19_+_Vite_7_+_Tailwind_v4_+_CF_Pages-FFAB40?style=flat-square&logoColor=white) ![Repo](https://img.shields.io/badge/Private_Repo-555?style=flat-square)
->
+> ![Stack](https://img.shields.io/badge/React_19_+_Vite_7_+_Tailwind_v4_+_Claude_+_Cloudflare-FFAB40?style=flat-square&logoColor=white) ![Repo](https://img.shields.io/badge/Private_Repo-555?style=flat-square)
+> 
 > **Live:** [truweather.app](https://truweather.app) &nbsp; ☕🤖
 >
 > Weather without clutter. 3 pro models. One smart algorithm. One clear verdict. Custom comfort thresholds. Sassy AI briefings you can chat with.
->
-> **PERFECT.** Or **SKIP IT.** Or anything in between — tuned to how *you* feel comfortable outside.
 >
 > <details>
 > <summary><strong>See what's under the hood</strong></summary>
