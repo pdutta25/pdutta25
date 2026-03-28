@@ -40,15 +40,15 @@
 
 ---
 
-> #### 🚲 Bike Shop
+> #### 🚲 (Metaphorical) Bike Shop
 >
 > ![Stack](https://img.shields.io/badge/Next.js_14_+_TypeScript_+_Drizzle_+_SQLite-FFAB40?style=flat-square&logoColor=white) ![Repo](https://img.shields.io/badge/Public_Repo-58A6FF?style=flat-square)
 >
-> **Live:** [devexbikeshop.com](https://devexbikeshop.com) &nbsp;|&nbsp; [View Repo](https://github.com/pdutta25/devex-bike-shop)
+> **Live:** [metaphoricalbikeshop.com](https://devexbikeshop.com) &nbsp;|&nbsp; [View Repo](https://github.com/pdutta25/devex-bike-shop)
 >
 > An e-commerce app nobody buys from. Seeded catalog, mocked payments, no real transactions. First full build co-authored with Claude (as proof human + AI can create worthwhile things).
 >
-> MCP Agents. GitHub Actions + Harness CI/CD. Security/Quality baked in. Observability. Commit telemetry and traceability — push to prod.
+> MCP Agents. GitHub Actions + Harness CI/CD. AI powered Security, Quality & Observability. Commit telemetry and traceability — push to prod.
 >
 > <details>
 > <summary><strong>See what's under the hood</strong></summary>
