@@ -7,7 +7,7 @@
 At work, I lead product strategy and execution - building nextgen AI-powered systems that deliver exceptional client experiences and drive decisions across thousands of users and millions in operational impact.
 
 But here? 
-Well, This is my escape. (And by escape, I mean I build the same things - just without stakeholders, budgets, roadmaps, and meetings about meetings. Turns out that charges me way better. More meaningfully.)
+Well, This is my escape. (And by escape, I mean I build things out of curiosity -  no budgets, roadmaps, and meetings about meetings. Exploring domains I care about, some experienced first hand in the past. Turns out that charges me way better. More meaningfully.)
 
 Between kids' baseball games, chores, and real life, I find space to think and build across domains where I've spent years creating great things. No mandates. No constraints. Just: What if I built this? What does it teach me?
 
