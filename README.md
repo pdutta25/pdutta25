@@ -4,7 +4,7 @@
 
 ## 🎯 Off-Work: What I'm Building Here
 
-At work, I lead product strategy and execution - building nextgen AI-powered systems that deliver exceptional client experiences and drive decisions across thousands of users and millions in operational impact.
+At work, I lead product strategy and execution - building nextgen AI-powered systems that create exceptional client experiences and drive decisions across thousands of users and millions in operational value.
 
 But here? 
 Well, This is my escape. (And by escape, I mean I build things out of curiosity -  no budgets, roadmaps, and meetings about meetings. Exploring domains I care about, some experienced first hand in the past. Turns out that charges me way better. More meaningfully.)
