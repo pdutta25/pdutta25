@@ -65,7 +65,7 @@ Each explores a different way of thinking. Each teaches something.
 
 > The good ideas don't come from hype cycles. They come from understanding where the pain actually is. Build there. Ship fast. Iterate with users. Technology is to simplify human lives - so I architect, ship, and scale it.
 
-On this GitHub: what I build when I'm not managing operations, raising a family, living real life. Pure thinking. Pure building.
+On this GitHub: what I build when I'm juggling between work and life. Pure thinking. Pure building.
 
 ---
 
