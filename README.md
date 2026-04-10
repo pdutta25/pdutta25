@@ -1,54 +1,83 @@
-<div align="center">
 
-🔗 [![Portfolio](https://img.shields.io/badge/Portfolio-pdutta25.github.io-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://pdutta25.github.io)
-
-</div>
 
 ---
 
-### Idea to Ship — Built to Learn
+## 🎯 Off-Work: What I'm Building Here
 
-> #### 🌤️ TruWeather
->
-> ![Stack](https://img.shields.io/badge/React_19_+_Vite_7_+_Tailwind_v4_+_Claude_+_Cloudflare-FFAB40?style=flat-square&logoColor=white) ![Repo](https://img.shields.io/badge/Private_Repo-555?style=flat-square)
-> 
-> **Live:** [truweather.app](https://truweather.app) &nbsp; ☕🤖
->
-> Weather without clutter. 3 pro models. One smart algorithm. One clear verdict. Custom comfort thresholds. Sassy AI briefings you can chat with.
->
-> <details>
-> <summary><strong>See what's under the hood</strong></summary>
->
-> <br/>
->
-> - **Nice Score 0-100** — one algorithm, one crystal-clear verdict: PERFECT / GREAT / DECENT / MEH / SKIP IT
-> - **3 pro weather models** — NOAA + ECMWF + GFS via Open-Meteo and direct NOAA API
-> - **AI chat** — Claude Haiku answers weather questions conversationally (prompt cached)
-> - **Custom comfort thresholds** — Delicate Flower / Normal Human / Built Different or custom sliders
-> - **Smart Quick Ask** — 3 context-aware questions based on weather + time of day
-> - **Severe weather alerts** — NOAA alerts override positive verdicts
-> - **Share This Verdict** — canvas-generated image card for native share sheet
-> - **100% free** · **Zero ads** · **Zero BS**
->
-> Lightning-fast **PWA** on Cloudflare Pages. Tap "Add to Home Screen" — no App Store needed.
->
-> *If it makes someone's day a little easier, that's the whole point.*
->
-> </details>
+At work, I lead product strategy and execution - building nextgen AI-powered systems that deliver exceptional client experiences and drive decisions across thousands of users and millions in operational impact.
+
+But here? 
+Well, This is my escape. (And by escape, I mean I build the same things - just without stakeholders, budgets, roadmaps, and meetings about meetings. Turns out that charges me way better. More meaningfully.)
+
+Between kids' baseball games, chores, and real life, I find space to think and build across domains where I've spent years creating great things. No mandates. No constraints. Just: What if I built this? What does it teach me?
+
+This GitHub is where that happens.
 
 ---
 
+## 🏗️ How I Think
+
+**Problem Framing**  
+The question matters more than the answer.
+
+**Idea to Shipped**  
+From napkin to live URL. Shipping is proof.
+
+**Saying No**  
+Knowing what NOT to build beats a 50-item roadmap. Every time.
+
+---
+
+## 🚀 Featured Work
+
+### [TruWeather](https://truweather.app)
+**Weather without clutter. One smart verdict.** (Phew - 5 months of stolen time between chores and kids' baseball.)
+
+Built because the weather apps I used were noise. This one isn't.
+
+- **What it shows:** AI orchestration. Multi-model reasoning. PWA patterns.
+- **Tech:** React, TypeScript, Claude API, real-time decision-making
+- **Live:** https://truweather.app
+- **Repo:** Private
+
+**Read the story:** [How I Built a Weather App in My Spare Time Using Claude AI](https://medium.com/stackademic/how-i-built-a-weather-app-in-my-spare-time-using-claude-ai-8a6067c4018e) on Stackademic
+
+---
+
+## 🔜 What's Next
+
+Building AI-powered systems that solve real problems across different domains and disciplines.
+
+-> **Fintech** - Fraud detection. Real-time reasoning under uncertainty. Risk thinking.  
+-> **Healthcare** - Clinical decision support. Why regulated domains demand different thinking.  
+-> **Code & Architecture** - What AI actually understands (and misunderstands) about your systems.  
+-> **Operations** - Optimization isn't just math, it's people, constraints, and real-world tradeoffs.  
+-> **Enterprise Adoption** - Why 73% of AI projects fail in deployment, and how to be in the 27%.  
+-> **Finance & Investing** - Beyond fraud. Algorithmic thinking. Market dynamics. Risk modeling.  
+-> **Product & Design** - How AI changes what we build and how users interact with it.  
+-> **Travel** - Location intelligence. Real-world patterns. Decision-making on the go.  
+
+Each explores a different way of thinking. Each teaches something.
+
+---
+
+## 🎓 Philosophy
+
+> The good ideas don't come from hype cycles. They come from understanding where the pain actually is. Build there. Ship fast. Iterate with users. Technology is to simplify human lives - so I architect, ship, and scale it.
+
+On this GitHub: what I build when I'm not managing operations, raising a family, living real life. Pure thinking. Pure building.
+
+---
+
+## 🏆 Achievements (Yeah, I Didn't Know These Existed Either)
+
+Turns out GitHub has a whole achievement system. Apparently I've been shipping enough to unlock some. Here's the humbling part:
 
 <div align="center">
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pdutta25&theme=dark&background=0d1117&ring=FFAB40&fire=FF6B35&currStreakLabel=FFAB40&sideLabels=f5e6d8&dates=a07858&border=3a1f0e)
 
 </div>
-
-
----
-
-### Achievements Unlocked
 
 <table>
 <tr>
@@ -61,7 +90,7 @@
 <br/><br/>
 <sub>Earned by merging accepted pull requests.</sub>
 <br/>
-<sub>🥉 2 &nbsp;→&nbsp; 🥈 16 &nbsp;→&nbsp; 🥇 128 &nbsp;→&nbsp; 🏅 1,024</sub>
+<sub>🥉 2 -> 🥈 16 -> 🥇 128 -> 🏅 1,024</sub>
 <br/>
 <sub><strong>Next: Platinum at 1,024 PRs</strong></sub>
 </td>
@@ -72,9 +101,9 @@
 <br/>
 <img src="https://img.shields.io/badge/🏅_PLATINUM_x2-727_co--authored-FF6B35?style=for-the-badge&labelColor=0d1117"/>
 <br/><br/>
-<sub>Earned by co-authoring commits on merged PRs.</sub>
+<sub>My team = me, my thinking, AI (Grok, Claude), and Caffeine.</sub>
 <br/>
-<sub>🥉 1 &nbsp;→&nbsp; 🥈 10 &nbsp;→&nbsp; 🥇 24 &nbsp;→&nbsp; 🏅 48</sub>
+<sub>🥉 1 -> 🥈 10 -> 🥇 24 -> 🏅 48</sub>
 <br/>
 <sub><strong>Maxed out. Absolute unit.</strong></sub>
 </td>
@@ -87,7 +116,7 @@
 <br/><br/>
 <sub>Earned by merging a PR without code review.</sub>
 <br/>
-<sub>No tiers — you either live dangerously or you don't.</sub>
+<sub>No tiers - you either live dangerously or you don't.</sub>
 <br/>
 <sub><strong>I chose violence. 135 times.</strong></sub>
 </td>
@@ -96,21 +125,14 @@
 
 ---
 
-### Tier Guide
+## 📊 The Numbers
 
 ```
-🥉 Bronze      Just getting started
-🥈 Silver      Consistent contributor
-🥇 Gold        Serious builder
-🏅 Platinum    Elite tier — x2, x3, x4 multipliers at scale
+1,226 commits · 135 merged PRs · built with ☕ and an AI that doesn't sleep
 ```
 
-<sub>GitHub displays your highest tier earned. Higher tiers replace lower ones on your profile.</sub>
+Not trying to flex. Just grateful I found time to keep building between everything else.
 
 ---
 
-<div align="center">
-
-*1,226 commits · 135 merged PRs · built with ☕ and an AI that doesn't sleep*
-
-</div>
+*Building for the sake of building. Shipping proof over promises.*
