@@ -4,10 +4,9 @@
 
 ## 🎯 Off-Work: What I'm Building Here
 
-At work, I lead product strategy and execution - building nextgen AI-powered systems that create exceptional client experiences and drive decisions across thousands of users and millions in operational value.
+At work, I lead product strategy and vision - envisioning what's next, making the future visible, so users can feel it and engineering can build it. A slew of nextgen AI-powered systems that create exceptional client experiences and drive decisions across thousands of users and millions in operational value.
 
-But here? 
-Well, This is my escape. (And by escape, I mean I build things out of curiosity -  no budgets, roadmaps, and meetings about meetings. Exploring domains I care about, some experienced first hand in the past. Turns out that charges me way better. More meaningfully.)
+But here? This is my escape. (And by escape, I mean I build things out of curiosity - no budgets, roadmaps, and meetings about meetings. Exploring domains I care about, some experienced first hand in the past. Turns out that charges me way better. More meaningfully.)
 
 Between kids' baseball games, chores, and real life, I find space to think and build across domains where I've spent years creating great things. No mandates. No constraints. Just: What if I built this? What does it teach me?
 
@@ -31,22 +30,22 @@ Knowing what NOT to build beats a 50-item roadmap. Every time.
 ## 🚀 Featured Work
 
 ### [TruWeather](https://truweather.app)
-**Weather without clutter. One smart verdict.** (Phew - 5 months of stolen time between chores and kids' baseball.)
+**Weather without clutter. One smart verdict.** (Phew - 5 months of stolen time between chores)
 
 Built because the weather apps I used were noise. This one isn't.
 
-- **What it shows:** AI orchestration. Multi-model reasoning. PWA patterns.
+- **What it shows:** AI powered algorithm. 3 pro weather models (NOAA, ECMWF, GFS). PWA patterns. Friendly interactions
 - **Tech:** React, TypeScript, Claude API, real-time decision-making
 - **Live:** https://truweather.app
 - **Repo:** Private
 
-**Read the story:** [How I Built a Weather App in My Spare Time Using Claude AI](https://medium.com/stackademic/how-i-built-a-weather-app-in-my-spare-time-using-claude-ai-8a6067c4018e) on Stackademic
+**Read the story:** [How I Built a Weather App in My Spare Time Using Claude AI](https://medium.com/stackademic/how-i-built-a-weather-app-in-my-spare-time-using-claude-ai-8a6067c4018e) on Medium
 
 ---
 
 ## 🔜 What's Next
 
-Building AI-powered systems that solve real problems across different domains and disciplines.
+Building my way to discovery - not sure what exactly to build, but curious enough to keep going across domains I care about.
 
 -> **Fintech** - Fraud detection. Real-time reasoning under uncertainty. Risk thinking.  
 -> **Healthcare** - Clinical decision support. Why regulated domains demand different thinking.  
@@ -65,7 +64,6 @@ Each explores a different way of thinking. Each teaches something.
 
 > The good ideas don't come from hype cycles. They come from understanding where the pain actually is. Build there. Ship fast. Iterate with users. Technology is to simplify human lives - so I architect, ship, and scale it.
 
-On this GitHub: what I build when I'm juggling between work and life. Pure thinking. Pure building.
 
 ---
 
