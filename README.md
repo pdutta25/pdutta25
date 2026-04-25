@@ -4,7 +4,7 @@
 
 ## 🎯 Off-Work: What I'm Building Here
 
-At work, I do strategy - envisioning what's next, making the future visible, so users can feel it and teams can create it...systems that create exceptional client experiences and drive decisions for thousands of users and millions in operational value.
+At work, I strategize about what's next, making the future visible, so users can feel it and teams can create it...systems that create exceptional client experiences and drive decisions for thousands of users and millions in operational value.
 
 But here? This is my escape. (And by escape, I mean I build things out of curiosity - no budgets, roadmaps, and meetings about meetings. Exploring domains I care about, some experienced first hand in the past. Turns out that charges me way better. More meaningfully.)
 
