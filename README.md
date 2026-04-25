@@ -38,6 +38,7 @@ Built because the weather apps I used were noise. This one isn't.
 - **Tech:** React, TypeScript, Claude API, real-time decision-making
 - **Live:** https://truweather.app
 - **Repo:** Private
+- **Real traffic (last 30 days):** 2.28k unique visitors · 24.94k total requests — all organic, zero paid marketing
 
 **Read the story:** [How I Built a Weather App in My Spare Time Using Claude AI](https://medium.com/stackademic/how-i-built-a-weather-app-in-my-spare-time-using-claude-ai-8a6067c4018e) on Medium
 
