@@ -40,7 +40,7 @@ Built because the weather apps I used were noise. This one isn't.
 - **Repo:** Private
 - **Real traffic (last 30 days):** 2.28k unique visitors · 24.94k total requests — all organic, zero paid marketing
 
-**Read the story:** [How I Built a Weather App in My Spare Time Using Claude AI](https://medium.com/stackademic/how-i-built-a-weather-app-in-my-spare-time-using-claude-ai-8a6067c4018e) on Medium
+**Read the story:** [From Idea to Ship to 2,280 users in 30 days : A Solo Build Story](https://medium.com/stackademic/i-built-a-weather-app-in-my-spare-time-a-month-later-2-280-people-showed-up-5bbaa0a118ee) on Medium
 
 ---
 
