@@ -4,7 +4,7 @@
 
 ## 🎯 Off-Work: What I'm Building Here
 
-At work, I strategize, make the future visible and drive it to reality. My teams build systems that create exceptional client experiences and decisions for thousands of users, millions in operational value
+At work, I strategize & build systems that create exceptional client experiences and decisions for thousands of users, millions in operational value
 
 But here? 
 
