@@ -4,9 +4,6 @@
 
 ## 🎯 Off-Work: What I'm Building Here
 
-At work, I strategize & build systems that create exceptional client experiences and decisions for thousands of users, millions in operational value
-
-But here? 
 
 This is my escape. (And by escape, I mean I build things out of curiosity - no budgets, roadmaps, and meetings about meetings. Exploring domains I care about, some experienced first hand in the past. Turns out that charges me way better. More meaningfully.)
 
