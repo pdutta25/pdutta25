@@ -42,7 +42,7 @@ Built because the weather apps I used were noise. This one isn't.
 - **Repo:** Private
 - **Real traffic (last 30 days):** 2.28k unique visitors · 24.94k total requests — all organic, zero paid marketing
 
-**Read the story:** [From Idea to Ship to 2,280 users in 30 days : A Solo Build Story](https://medium.com/stackademic/i-built-a-weather-app-in-my-spare-time-a-month-later-2-280-people-showed-up-5bbaa0a118ee) on Medium
+**Full story here:** [From Idea to Ship to 2,280 users in 30 days : A Solo Build Story](https://medium.com/stackademic/i-built-a-weather-app-in-my-spare-time-a-month-later-2-280-people-showed-up-5bbaa0a118ee) on Medium
 
 ---
 
