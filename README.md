@@ -4,8 +4,10 @@
 
 ## 🎯 Off-Work: What I'm Building Here
 
+For work, I help companies envision their next thing — strategize, prototype, engage clients, direct teams, and ship real value to thousands of users. 20+ years turning bold visions into massive outcomes has been fulfilling, yet it’s shown me how badly I crave building without budgets, roadmaps, or relentless value-generation meetings (yikes...).
 
-This is my escape. (And by escape, I mean I build things out of curiosity - no budgets, roadmaps, and meetings about meetings. Exploring domains I care about, some experienced first hand in the past. Turns out that charges me way better. More meaningfully.)
+This is my escape. 
+(And by escape, I mean I build things out of curiosity - no budgets, roadmaps, and meetings about meetings. Exploring domains I care about, some experienced first hand in the past. Turns out that charges me way better. More meaningfully.)
 
 Between kids' baseball games, chores, and real life, I find space to think and build across domains where I've spent years creating great things. No mandates. No constraints. Just: What if I built this? What does it teach me?
 
